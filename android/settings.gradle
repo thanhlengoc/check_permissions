@@ -1,0 +1,3 @@
+rootProject.name = 'check_permission'
+
+include ':app'
